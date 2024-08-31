@@ -5,6 +5,8 @@
     width="30"
   /> Hey! Welcome Nice to see you.
 </h1>
+
+
 <h1 align="center" style="color:purple;">I'm Devansh Gupta ! <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
     width="30"
@@ -20,8 +22,8 @@
 
 <br/>
 
-### About Me
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <table align = "center">
 <tr>
 <td>
