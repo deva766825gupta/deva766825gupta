@@ -5,6 +5,7 @@
     width="30"
   /> Hey! Welcome Nice to see you.
 </h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60">
 
 
 <h1 align="center" style="color:purple;">I'm Devansh Gupta ! <img
@@ -23,7 +24,7 @@
 <br/>
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <table align = "center">
 <tr>
 <td>
