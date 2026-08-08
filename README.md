@@ -31,7 +31,8 @@
 <h2 align = "center">📖 About Me</h2>
 
 <p align = "left">
-🎓 I’m a pursuing my Bachelors in Elecrical Engineering from DTU .<br>
+🎓 I have completed my B.Tech in Electrical Engineering from DTU. .<br>
+  ⚡ I’m currently pursuing M.Tech in Power System Engineering at IIT Roorkee.<br>
 🖥 I m passionate about learning new technologies and frameworks.<br>
 👨‍💻 I’m currently learning Backend.<br>
 🤝 I’m looking to collaborate with New Open Source Organisation and Open Source projects.<br>
